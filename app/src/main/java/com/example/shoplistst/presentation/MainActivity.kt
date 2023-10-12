@@ -1,4 +1,4 @@
-package com.example.shoplistst
+package com.example.shoplistst.presentation
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
